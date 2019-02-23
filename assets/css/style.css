@@ -13,3 +13,7 @@ h1 {
     border-top: 1px solid;
     border-bottom: 1px solid;
 }
+
+h1 h {
+    display: none;
+}
