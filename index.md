@@ -1,7 +1,9 @@
+@import "{{ site.theme }}";
+
 <small>Dark-Cloud-Dos presents</small>
 # GAME SOURCES
 
-This site is dedicated to game sources... in PASCAL, but not just game sources, but other cool stuff too. Send any comments or sources or ``anything else to our E-MAIL at darkclouddos@gmail.com. 
+This site is dedicated to game sources... in PASCAL, but not just game sources, but other cool stuff too. Send any comments or sources or anything else to our E-MAIL at darkclouddos@gmail.com. 
 
 See out [about](about.md) page for more information.
 
