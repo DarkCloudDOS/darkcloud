@@ -14,6 +14,7 @@ h1 {
     border-bottom: 1px solid;
 }
 
-h1 a {
+/* hide github generated content */
+body div h1:first-child {
     display: none;
 }
