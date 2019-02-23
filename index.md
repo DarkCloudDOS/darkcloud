@@ -1,5 +1,3 @@
-@import "{{ site.theme }}";
-
 <small>Dark-Cloud-Dos presents</small>
 # GAME SOURCES
 
