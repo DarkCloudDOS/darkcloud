@@ -3,7 +3,9 @@ body {
 }
 
 small {
+    display: block;
     text-align: center;
+    font-style: italic;
 }
 
 h1 {
