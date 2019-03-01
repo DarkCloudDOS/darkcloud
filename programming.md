@@ -14,11 +14,11 @@ I am also looking for a free (as in freedom + source code) DOS pascal compiler c
 
 * Ralf Brown Interrupt list - is the best documentation
   on interrrupt available.
-  http://ctyme.com/rbrown.htm
+  [http://ctyme.com/rbrown.htm]()
 
 * PCGPE - The PC Game Programmer's Encyclopedia
 http://www.oocities.org/siliconvalley/2151/pcgpe.html
-<br> http://qzx.com/pc-gpe/
+<br> [http://qzx.com/pc-gpe/]
 
 
 
