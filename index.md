@@ -8,7 +8,7 @@ See out [about](about.md) page for more information.
 ## News
 1. Site is re-launced as a github repository
 1. Packman2 - the revenge is fully hosted and downloadable
-1. Added a page for emulating DOS in the year 2019.
+1. Added a page for emulating DOS in the year 2019 (see [Emulation](emulation.html)).
 
 ---
 ## Games we made

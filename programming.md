@@ -13,25 +13,25 @@ I am also looking for a free (as in freedom + source code) DOS pascal compiler c
 ## Low level DOS
 
 * Ralf Brown Interrupt list - is the best documentation
-  on interrrupt available.
-  [http://ctyme.com/rbrown.htm]()
+  on PC interrrupt available.
+  [http://ctyme.com/rbrown.htm](http://ctyme.com/rbrown.htm)
 
 * PCGPE - The PC Game Programmer's Encyclopedia
-http://www.oocities.org/siliconvalley/2151/pcgpe.html
-<br> [http://qzx.com/pc-gpe/]
+[http://www.oocities.org/siliconvalley/2151/pcgpe.html](http://www.oocities.org/siliconvalley/2151/pcgpe.html)
+<br> [http://qzx.com/pc-gpe/](http://qzx.com/pc-gpe/)
 
 
 
 ## Game archives
- * https://archive.org/details/softwarelibrary_msdos_games
- * https://www.dosgamesarchive.com/
+ * [https://archive.org/details/softwarelibrary_msdos_games](https://archive.org/details/softwarelibrary_msdos_games)
+ * [https://www.dosgamesarchive.com/](https://www.dosgamesarchive.com/)
 
 ## Game sources
- * http://cgi.di.uoa.gr/~geotz/dos/
- * https://www.reddit.com/r/programming/comments/a90xot/making_a_game_in_turbo_pascal_302/
+ * [http://cgi.di.uoa.gr/~geotz/dos/](http://cgi.di.uoa.gr/~geotz/dos/)
+ *  [https://www.reddit.com/r/programming/comments/a90xot/making_a_game_in_turbo_pascal_302/](https://www.reddit.com/r/programming/comments/a90xot/making_a_game_in_turbo_pascal_302/)
  
- ## General programming 
-  * Borland Pascal WIKI     https://borlandpascal.fandom.com/wiki/Main_Page
+## General programming
+  * Borland Pascal WIKI     [https://borlandpascal.fandom.com/wiki/Main_Page](https://borlandpascal.fandom.com/wiki/Main_Page)
 
 ---
 [[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)] - hosted in [Github](https://github.com/DarkCloudDOS) !
