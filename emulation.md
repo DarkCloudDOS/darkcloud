@@ -23,7 +23,8 @@ d:
 
 ## Full emulation
 
-I would once recommend using [DosEMU] (http://www.dosemu.org/)+[FreeDOS](http://freedos.org/), but I see that DosEMU is no longer maintained (see [DosEMU's git](https://sourceforge.net/p/dosemu/code/ci/35054ba7e9f827abff097a5fe5b8d4654b7a84f4/log/?path=) - last commit in 2013). The best alternative is using something like [VirtualBox](https://www.virtualbox.org/) (or [GNome's boxes](https://help.gnome.org/users/gnome-boxes/stable/)).
+I would once recommend using 
+[DOSEMU](http://www.dosemu.org/) + [FreeDOS](http://freedos.org/), but I see that DosEMU is no longer maintained (see [DOSEMU's git](https://sourceforge.net/p/dosemu/code/ci/35054ba7e9f827abff097a5fe5b8d4654b7a84f4/log/?path=) - last commit in 2013). The best alternative is using something like [VirtualBox](https://www.virtualbox.org/) (or [GNome's boxes](https://help.gnome.org/users/gnome-boxes/stable/)).
 
 I think the best documentation on this subject can be found in FreeDOS pages, http://wiki.freedos.org/wiki/index.php/VirtualBox http://wiki.freedos.org/install/
 
