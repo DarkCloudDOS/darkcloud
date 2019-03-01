@@ -17,8 +17,8 @@ See out [about](about.md) page for more information.
    * Object oriented, MCGA, HSC sound and WAV's
    * 2019 build contains the Packman level editor
     (pmle) and main game.
-   * Download <[PACKMAN2.ZIP](packman2.zip)> [281K]
-     , [git clone](https://github.com/DarkCloudDOS/packman2)
+   * Download <[PACKMAN2.ZIP](packman2.zip)> [315K]
+     , includes PMLE. [git clone](https://github.com/DarkCloudDOS/packman2)
 1. Digger in the rock
    * Very nice imitation of the real one. (but
      this one works on an non XT computer).
