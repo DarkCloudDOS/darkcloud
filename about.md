@@ -10,6 +10,9 @@ Code should run on original HW, but emulation is the main way code is tested on 
 
 We try to keep this site... nostalgic. It looks dates on purpose. But should also look great(ish...) on mobile as the world browses on mobile.
 
+For any question - feel free to contact us: darkclouddos@gmail.com
+
+---
 ## Original text
 
 This is a story about three man. Ariel came first with a XT.
@@ -24,5 +27,5 @@ The competition was hard, survivol was even harder.&nbsp;We fought side
 to side against our parents and brothers. <b>We Have no official computer
 education</b> but we still are great programmers. 
 
-[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)]
-
+---
+[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)] - hosted in [Github](https://github.com/DarkCloudDOS) !

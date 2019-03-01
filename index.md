@@ -10,8 +10,6 @@ See out [about](about.md) page for more information.
 1. Packman2 - the revenge is fully hosted and downloadable
 1. Added a page for emulating DOS in the year 2019.
 
-[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)]
-
 ---
 ## Games we made
 1. Packman2 - the revenge
@@ -27,3 +25,7 @@ See out [about](about.md) page for more information.
    * XMODE 320x240x256c, HSC sound and WAV's. 
      Not finished. :)
    * download <[DIGGER.ZIP](DIGGER.ZIP)> [191K] *git clone* - comming soon
+
+---
+[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)] - hosted in [Github](https://github.com/DarkCloudDOS) !
+
