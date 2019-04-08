@@ -1,38 +1,52 @@
 # Programming
 
-Our site was boring... so we decided to have another page.
-In this page you can find sources in pascal for you to download and enjoy.
-There are some catergories. We hope that it is not that ugly. sorry. Real
-programmers don't need comments... but if you need them just tell us 
-at at darkclouddos@gmail.com
+This page contains general libraries and utilities we
+made outside of the games themselves.
 
-Seriously... I am thinking about modernizing my build setup, and be able to cross-compile DOS apps from Linux (or Windows or Mac) and use modern editors (for example Visual Studio code). Maybe implementing a multi-platform graphics library, that will let me code in my modern OS but still be compatible with DOS. 
+# Libraries
+1. __Utils__
+   * A collection of TP7 units to deal with graphics and keyboard
+   * All saved into a single repository, but can be 
+     individually downloaded.
+      * __gamepro__ - XMode graphics, palette manupulation
+      cell loading - [gamepro.zip](gamepro.zip) [5k]
+      * __mcga__ - Fast MCGA graphics unit [mcga.zip](mcga.zip) [4k]
+      * __xtdnmode__ - a unit for displaying graphics in 640x400 [xtndmode.zip](xtdnmode.zip) [5k]
+      * __kb__ - a unit for reading keyboard state [kb.zip](kb.zip) [2kb]
+    * All units in github - [git clone](https://github.com/DarkCloudDOS/utils)
+1. __DGI__
+    * A drak cloud implementation of Borland's BGI.
+    * Full open source, of library loading and drivers
+      (TP7 and TASM compatible)
+    * download [DGI.ZIP](dgi.zip) [36K] - [git clone](https://github.com/DarkCloudDOS/utils)
 
-I am also looking for a free (as in freedom + source code) DOS pascal compiler compatible with TP7. 
+# Stand alone programs
+1. __Cell to PCX__
+   * A package which includes command linen utilties to:
+     * convert PCX to CEL / CEL to PCX
+     * view CEL / PCX
+     * load CEL / PCX
+   * Download <[CELLPCX.ZIP](cellpcx.zip)> [315K]
+      [git clone](https://github.com/DarkCloudDOS/packman2)
+2. __Font editor 8x8__
+   * A program for editing 8x8 raster fonts, as used by the   bios. We use the same font in our games.
+   * Download <[FE8x8.ZIP](fe8x8.zip)> [315K]
+      [git clone](https://github.com/DarkCloudDOS/fe8x8)
 
-## Low level DOS
+# Missing code
+The following code has been lost. If you have a link to the
+code please send it to us. 
 
-* Ralf Brown Interrupt list - is the best documentation
-  on PC interrrupt available.
-  [http://ctyme.com/rbrown.htm](http://ctyme.com/rbrown.htm)
-
-* PCGPE - The PC Game Programmer's Encyclopedia
-[http://www.oocities.org/siliconvalley/2151/pcgpe.html](http://www.oocities.org/siliconvalley/2151/pcgpe.html)
-<br> [http://qzx.com/pc-gpe/](http://qzx.com/pc-gpe/)
-
-
-
-## Game archives
- * [https://archive.org/details/softwarelibrary_msdos_games](https://archive.org/details/softwarelibrary_msdos_games)
- * [https://www.dosgamesarchive.com/](https://www.dosgamesarchive.com/)
-
-## Game sources
- * [http://cgi.di.uoa.gr/~geotz/dos/](http://cgi.di.uoa.gr/~geotz/dos/)
- *  [https://www.reddit.com/r/programming/comments/a90xot/making_a_game_in_turbo_pascal_302/](https://www.reddit.com/r/programming/comments/a90xot/making_a_game_in_turbo_pascal_302/)
- 
-## General programming
-  * Borland Pascal WIKI     [https://borlandpascal.fandom.com/wiki/Main_Page](https://borlandpascal.fandom.com/wiki/Main_Page)
+* SB.ZIP - TPU for playing WAV file
+* TCD.ZIP - a program to display True color in Pascal
+* PALLETE.ZIP - a unit for manipulating palette
+* Any older versions of GMS.ZIP and JEEP.ZIP
 
 ---
-[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)] - hosted in [Github](https://github.com/DarkCloudDOS) !
+[[Game sources](index.html)] - 
+[[Programming](programming.html)] - 
+[[Links](links.html)] - 
+[[About](about.html)] - 
+[[Emulation](emulation.html)] - 
+hosted in [Github](https://github.com/DarkCloudDOS) !
 

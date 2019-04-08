@@ -7,7 +7,8 @@ The recommended way is using [DosBox](https://www.dosbox.com/). This is a piece 
 
 This way you can edit code with modern tools, and use git for version control on the host, and then just compile on the DOS window. I find myself using good old TP7 
 
-I added these lines to the end of  `~/.dosbox/dosbox-0.74-2.conf` 
+I added these lines to the end of  `~/.dosbox/dosbox-0.74-2.conf`  (more information here: 
+https://www.dosbox.com/wiki/Dosbox.conf)
 
 ```
 [autoexec]
@@ -31,6 +32,11 @@ I think the best documentation on this subject can be found in FreeDOS pages, ht
 ## Real hardware
 
 You are brave. Please leave.
----
-[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)] - hosted in [Github](https://github.com/DarkCloudDOS) !
 
+---
+[[Game sources](index.html)] - 
+[[Programming](programming.html)] - 
+[[Links](links.html)] - 
+[[About](about.html)] - 
+[[Emulation](emulation.html)] - 
+hosted in [Github](https://github.com/DarkCloudDOS) !

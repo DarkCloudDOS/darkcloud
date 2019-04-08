@@ -27,5 +27,11 @@ The competition was hard, survivol was even harder.&nbsp;We fought side
 to side against our parents and brothers. <b>We Have no official computer
 education</b> but we still are great programmers. 
 
+
 ---
-[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)] - hosted in [Github](https://github.com/DarkCloudDOS) !
+[[Game sources](index.html)] - 
+[[Programming](programming.html)] - 
+[[Links](links.html)] - 
+[[About](about.html)] - 
+[[Emulation](emulation.html)] - 
+hosted in [Github](https://github.com/DarkCloudDOS) !

@@ -9,6 +9,7 @@ See out [about](about.md) page for more information.
 1. April 2019 -
    1. Added new games: [Tola](https://github.com/DarkCloudDOS/tola), and [GMS/Jeep](https://github.com/DarkCloudDOS/gms)
    1. Added section for libraries we made.
+   1. New page with libraries and utilities we produced
    1. All git repositories have a zip listings
       containing original dates, ans screen shots 
 1. March 2019 -
@@ -72,7 +73,10 @@ See out [about](about.md) page for more information.
    * Picture editors for 32 and 16 sprties
    * download <[GMS.ZIP](gms.zip)> [38K] [git clone](https://github.com/DarkCloudDOS/gms)
 
-
 ---
-[[Game sources](index.html)] - [[Programming](programming.html)] - [[About](about.html)] - [[Emulation](emulation.html)] - hosted in [Github](https://github.com/DarkCloudDOS) !
-
+[[Game sources](index.html)] - 
+[[Programming](programming.html)] - 
+[[Links](links.html)] - 
+[[About](about.html)] - 
+[[Emulation](emulation.html)] - 
+hosted in [Github](https://github.com/DarkCloudDOS) !
